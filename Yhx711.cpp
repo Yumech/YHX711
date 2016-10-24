@@ -1,3 +1,10 @@
+/*
+ * Yhx711.cpp
+ *
+ *  Created on: Oct 25, 2016
+ *      Author: nucleus
+ */
+
 #include "Yhx711.h"
 
 YHx711::YHx711(uint8_t pin_dout, uint8_t pin_slk) :
