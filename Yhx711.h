@@ -1,3 +1,10 @@
+/*
+ * Yhx711.h
+ *
+ *  Created on: Oct 25, 2016
+ *      Author: nucleus
+ */
+
 #ifndef YHX711_H_
 #define YHX711_H_
 
